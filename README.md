@@ -4,4 +4,7 @@ Hi! I´m Carlos, I love creating projects, when I have the time for do it and sh
 
 ![Alt text](https://github.com/1984hats/pereira-info/blob/main/logo_silly.jpg)
 
-# Contact
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,flutter&perline=3)](https://skillicons.dev)
