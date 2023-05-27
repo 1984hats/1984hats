@@ -4,6 +4,7 @@ Hi! I´m Carlos, I love creating projects, when I have the time for do it and sh
 
 ![Alt text](https://github.com/1984hats/pereira-info/blob/main/logo_silly.jpg)
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Skills)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=au,pr,ae,ps,ai,xd)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sketchup,unreal,unity,blender,arduino,mysql,mongodb)](https://skillicons.dev)
